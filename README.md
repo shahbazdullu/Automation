@@ -34,7 +34,7 @@ end
 ```
 _XXXX are the last of digits of trainees roll no_
 
-**Note:**​ VCD files will be generated where DUT files are placed
+**Note:** VCD files will be generated where DUT files are placed
 
 ## Step3:
 #### This step is only needed when you have a file, whose path is needed to configure into another file.
