@@ -32,7 +32,7 @@ begin
 	$dumpvars(0,tb_filename);
 end
 ```
-_XXXX are the last of digits of trainees roll no_
+_XXXX are the last four digits of trainees roll no_
 
 **Note:** VCD files will be generated where DUT files are placed
 
