@@ -3,7 +3,7 @@ Instructions to run the LMChecker
 
 ## Step1:
 
-You can run the LMChecker just in bin directory.Just follow the instructions mentioned below.
+You can run the LMChecker just in bin directory. Just follow the instructions mentioned below.
 
 1. Go to the bin directory run the following cmd
 	./lmchecker.sh --help
